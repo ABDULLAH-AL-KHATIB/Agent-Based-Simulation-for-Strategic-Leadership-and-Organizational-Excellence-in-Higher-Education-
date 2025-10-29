@@ -1,0 +1,2 @@
+# Agent-Based-Simulation-for-Strategic-Leadership-and-Organizational-Excellence-in-Higher-Education-
+This repository contains the supplementary code for the manuscript titled "Strategic Leadership and Organizational Excellence in Higher Education: A Mixed-Methodology Analysis Combining Survey Data and Agent-Based Simulation" by Abdullah Mohammad Ghazi Al khatib, Abdullah Waleed Qazzaz, Saeed Naser Ibraheem, and Bayan Mohamad Alshaib.
